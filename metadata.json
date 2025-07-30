@@ -1,0 +1,5 @@
+{
+  "name": "BOSSE Digital Admission Form",
+  "description": "A web application to digitally fill, submit, and manage student admission forms for the Board of Open Schooling & Skill Education (BOSSE), featuring AI-powered application analysis.",
+  "requestFramePermissions": []
+}
